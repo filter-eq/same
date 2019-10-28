@@ -1,0 +1,2 @@
+#in .bashrc
+alias same='var=$PWD; xfce4-terminal --working-directory=$var'
